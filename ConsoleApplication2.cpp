@@ -4,7 +4,7 @@
 #include <cstdlib>
 #include <iomanip>
 #include <vector>
-//#include <cctype>
+#include <cctype>
 #include <fstream>
 #include <ctime>
 using namespace std;
