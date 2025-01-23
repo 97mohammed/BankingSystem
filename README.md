@@ -8,7 +8,6 @@ A simple banking system application.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 This project is a simple banking system application written in C++. It allows users to create accounts, deposit and withdraw money, and check their balance.
