@@ -18,8 +18,4 @@ This project is a simple banking system application written in C++. It allows us
 
 
 
-   cd BankingSystem
 
-   g++ -o BankingSystem main.cpp
-
-   ./BankingSystem
