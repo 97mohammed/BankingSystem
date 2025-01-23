@@ -24,3 +24,10 @@ To install and run this application, follow these steps:
 1. Clone the repository:
    ```sh
    git clone https://github.com/97mohammed/BankingSystem.git
+
+
+   cd BankingSystem
+
+   g++ -o BankingSystem main.cpp
+
+   ./BankingSystem
